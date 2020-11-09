@@ -1,0 +1,6 @@
+0|Kitty|7
+1|Mikey|15
+2|Blue|4
+3|Fido|3
+4|Hunter|18
+5|cal|3
